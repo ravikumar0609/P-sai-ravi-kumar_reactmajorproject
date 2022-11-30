@@ -3,16 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-few more dependcy library
-### `npm install --save react-toastify`
-or do 
-### `npm install` to load all dependency 
-
-to start json server
-`json-server --watch db.json`
-
-
-
 
 In the project directory, you can run:
 
